@@ -1,0 +1,17 @@
+{
+  "ver": "4.0.10",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "37f93edd-dd44-4ccd-ba11-4e8a08111ea1",
+  "files": [
+    ".js",
+    "editor.js",
+    ".trans"
+  ],
+  "subMetas": {},
+  "userData": {
+    "importAsPlugin": false,
+    "moduleId": "project:///assets/Script/start.js",
+    "importerSettings": 7
+  }
+}
