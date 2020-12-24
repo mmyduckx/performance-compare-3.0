@@ -110,7 +110,7 @@
     "_armatureName": "Swordsman",
     "_animationName": "attack1",
     "_animationIndexValue": 6,
-    "_defaultCacheModeValue": 2,
+    "_defaultCacheModeValue": 1,
     "_timeScale": 1,
     "_playTimes": -1,
     "_debugBones": false,

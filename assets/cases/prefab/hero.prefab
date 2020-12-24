@@ -102,9 +102,9 @@
     "_premultipliedAlpha": true,
     "timeScale": 1,
     "_useTint": false,
-    "_preCacheMode": 2,
-    "_cacheMode": 2,
-    "_defaultCacheMode": 2,
+    "_preCacheMode": 1,
+    "_cacheMode": 1,
+    "_defaultCacheMode": 1,
     "_debugBones": false,
     "_debugSlots": false,
     "_skeletonData": {

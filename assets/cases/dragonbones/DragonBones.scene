@@ -2937,8 +2937,6 @@
     "_enabled": true,
     "__prefab": null,
     "_resizeMode": 0,
-    "_N$layoutType": 2,
-    "_N$padding": 0,
     "_cellSize": {
       "__type__": "cc.Size",
       "width": 40,
@@ -2954,7 +2952,8 @@
     "_verticalDirection": 1,
     "_horizontalDirection": 0,
     "_affectedByScale": false,
-    "_id": "caKxIvLBxJfI8f4gm/318N"
+    "_id": "caKxIvLBxJfI8f4gm/318N",
+    "_layoutType": 2
   },
   {
     "__type__": "cc.UITransform",
