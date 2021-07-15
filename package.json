@@ -1,6 +1,9 @@
 {
+  "creator": {
+    "version": "3.0.0"
+  },
   "name": "performance-compare-3.0",
   "type": "3d",
   "uuid": "65f1e578-c9b2-4e60-b53f-92aa1e72e066",
-  "version": "3.0.0-preview.1"
+  "version": "3.0.0"
 }

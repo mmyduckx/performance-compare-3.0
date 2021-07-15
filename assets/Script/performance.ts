@@ -32,7 +32,7 @@ export class Performance extends Component {
             pos.x = (Math.random() - 0.5) * viewSize.width;
             pos.y = (Math.random() - 0.5) * viewSize.height;
             node.setPosition(pos);
-            node.setScale(0.3, 0.3, 1.0);
+            // node.setScale(0.5, 0.5, 1.0);
             this.container!.addChild(node);
             this.objArr.push(node);
         }
